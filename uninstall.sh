@@ -109,7 +109,7 @@ setup() {
         echo -e "${Green}[${Yellow}2${Green}] ${Cyan}Linux "
         echo -e "${Green}[${Yellow}3${Green}] ${Cyan}Exit"
         echo "" 
-        printf  " ${Yellow}Ninja  ${Cyan}-->  ${Green}"
+        printf  " ${Yellow}FF  ${Cyan}-->  ${Green}"
         read option
 
         case $option in
