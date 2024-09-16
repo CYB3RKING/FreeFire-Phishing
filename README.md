@@ -1,5 +1,5 @@
-# FreeFire-Phishing
-<h1 align="center">Free Fire Phishing - OnlineHacking</h1>
+
+<h1 align="center">Free Fire Phishing</h1>
 <p align="center">
   FreeFire ID Hack Use Termux
 </p>
@@ -71,15 +71,14 @@ pkg upgrade -y
 
 pkg install git 
 
-git clone https://github.com/OnlineHacKing/FreeFire-Phishing.git
+git clone https://github.com/CYB3RKING/FreeFire-Phishing
 
 cd FreeFire-Phishing
 
 chmod +x *
 
-./Andriod-Setup
+bash install.sh
 
-./OnlineHacking-Phishing
 ```
 
 
