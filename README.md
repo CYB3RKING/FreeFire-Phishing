@@ -4,7 +4,7 @@
   FreeFire ID Hack Use Termux
 </p>
 <p align="center">
-<a href="https://www.onlinehacking.xyz/2021/07/FreeFire-Phishing-Hack-Termux.html.html"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 ---
 
@@ -45,7 +45,7 @@ A powerful phishing tool for educational and research purposes. This tool allows
 - Fully customizable and easy to deploy
 
 **Credit:**
-Developed by **@OnlineHacking**, a well-known figure in the ethical hacking and cybersecurity education community.
+Developed by **@OnlineHacking**,a trusted name in ethical hacking and cybersecurity education.
 ---
 
 This format incorporates the additional details while keeping the original structure.
