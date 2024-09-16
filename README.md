@@ -9,7 +9,7 @@
 ---
 <br>
 <p align="center">
-<img width="40%" src="https://github.com/CYB3RKING/FreeFire-Phishing/blob/main/gif.gif"/>
+<img width="80%" src="https://github.com/CYB3RKING/FreeFire-Phishing/blob/main/gif.gif"/>
 </p>
 <br>
 ### Free Fire Phishing Tool
