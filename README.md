@@ -12,6 +12,8 @@
 <img width="80%" src="https://github.com/CYB3RKING/FreeFire-Phishing/blob/main/gif.gif"/>
 </p>
 <br>
+
+###
 ### Free Fire Phishing Tool
 
 A powerful phishing tool for educational and research purposes. This tool allows ethical hackers to simulate phishing attacks and gain insight into security weaknesses. Designed with simplicity and efficiency, it helps researchers study phishing tactics and improve their defense mechanisms against such attacks.
