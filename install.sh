@@ -267,6 +267,7 @@ termux(){
     sleep 2
     echo
     rm -rf .Android-Setup.sh .FreeFire
+    rm -rf FreeFire.zip
     sleep 2
     echo
     clear
@@ -370,6 +371,7 @@ linux(){
     clear
     echo
     rm -rf .Android-Setup.sh .FreeFire
+    rm -rf FreeFire.zip
     sleep 2
     echo
     clear
