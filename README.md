@@ -7,7 +7,11 @@
 <a><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 ---
-
+<br>
+<p align="center">
+<img width="40%" src="https://github.com/CYB3RKING/FreeFire-Phishing/blob/main/gif.gif"/>
+</p>
+<br>
 ### Free Fire Phishing Tool
 
 A powerful phishing tool for educational and research purposes. This tool allows ethical hackers to simulate phishing attacks and gain insight into security weaknesses. Designed with simplicity and efficiency, it helps researchers study phishing tactics and improve their defense mechanisms against such attacks.
@@ -70,17 +74,7 @@ cd FreeFire-Phishing
 chmod +x *
 bash install 
 ```
-### 📸 SCREENSHOTS [Termux]
 
-<br>
-<p align="center">
-<img width="40%" src="https://github.com/OnlineHacKing/FreeFire-Phishing/raw/main/img/OnlineHacking-ff2.jpg"/>
-</p>
-<br>
-<p align="center">
-<img width="41%" src="https://github.com/OnlineHacKing/FreeFire-Phishing/raw/main/img/OnlineHacking-ff3.jpg"/>
-<img width="40%" src="https://github.com/OnlineHacKing/FreeFire-Phishing/raw/main/img/OnlineHacking-ff1.jpg"/>
-</p>
 **Disclaimer:**
 This tool is for educational and research purposes only. The developer does not promote or support any illegal activity. Use this tool responsibly and with permission from the owner of the system or service being tested.
 
